@@ -1,0 +1,31 @@
+{
+  "csc2qr_version_latest": "1.0", 
+  "csc2qr_versions_supported": [
+    "1.0"
+  ], 
+  "csc_v0_version_latest": "1.0", 
+  "csc_v0_versions_supported": [
+    "1.0"
+  ], 
+  "csc_v1_version_latest": "3.0", 
+  "csc_v1_versions_supported": [
+    "1.0", 
+    "2.0", 
+    "3.0"
+  ], 
+  "docusign_version_latest": "1.0", 
+  "docusign_versions_supported": [
+    "1.0"
+  ], 
+  "health": "OK", 
+  "hermes_version_latest": "1.0", 
+  "hermes_versions_supported": [
+    "1.0"
+  ], 
+  "orpheus_version_latest": "2.0", 
+  "orpheus_versions_supported": [
+    "1.0", 
+    "2.0"
+  ], 
+  "success": true
+}
